@@ -1,7 +1,7 @@
 # theme-dappur
 A simple front-end theme for the Dappur PHP Framework
+
 ![alt text][s1] | ![alt text][s2]
-:-------------:|:---------------:
 ![alt text][s3] | ![alt text][s4]
 ![alt text][s5] | ![alt text][s6]
 
