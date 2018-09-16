@@ -1,5 +1,5 @@
 {
-	"name": "dappur",
+    "name": "dappur",
     "type": "frontend",
     "description": "The stock front-end theme for the Dappur PHP Framework",
     "version": "1.0.0",
