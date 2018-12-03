@@ -1,8 +1,4 @@
 $(document).ready(function(){
-	/* Nice Scroll
-	-------------------------------------------------- */
-	$("body").niceScroll();
-
 	/* Initialize Labels
 	-------------------------------------------------- */
 	$('input[type=text],input[type=password]').each(function(){
