@@ -3,7 +3,7 @@
 ## [Unreleased]
 ### No Changes
 
-## [1.1.0]
+## [1.1.0] - 2018-12-03
 ### Removed
 - Header and footer from error pages
 - The following pages were removed and added to the databased routes:
