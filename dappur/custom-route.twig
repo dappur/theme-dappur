@@ -6,7 +6,7 @@
 
 {% block body %}
 	<div class="container-fluid">
-		{{ route.content|raw }}
+		{{ include(template_from_string(route.content)) }}
 	</div>
 {% endblock %}
 
