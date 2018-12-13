@@ -1,7 +1,8 @@
 # Changelog
 
 ## [Unreleased]
-### No Changes
+### Removed
+- missed instance of nicescroll
 
 ## [1.1.0] - 2018-12-03
 ### Removed
