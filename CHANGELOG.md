@@ -1,6 +1,9 @@
 # Changelog
 
-## [4.0.0-RC1]
+## [Unreleased]
+### No Changes
+
+## [4.0.0-RC1] - 2019-07-14
 ### Added
 - Favicon
 
