@@ -1,7 +1,8 @@
 # Changelog
 
-## [Unreleased]
-### No Changes
+## [4.0.0] - 2019-09-24
+### Notes
+- Release version 4.0
 
 ## [4.0.0-RC2] - 2019-07-16
 ### Changed
